@@ -1,1 +1,1 @@
-# Netflix-Starter
+# Web3 Netflix built with Moralis
